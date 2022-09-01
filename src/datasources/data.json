@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": "u_1",
+            "name": "Mav",
+            "hasLicense": true
+        },
+        {
+            "id": "u_2",
+            "name": "IceCat",
+            "hasLicense": true
+        },
+        {
+            "id": "u_3",
+            "name": "Luna",
+            "hasLicense": false
+        },
+        {
+            "id": "u_4",
+            "name": "Milo",
+            "hasLicense": false
+        },
+        {
+            "id": "u_5",
+            "name": "Oliver",
+            "hasLicense": false
+        },
+        {
+            "id": "u_6",
+            "name": "Loki",
+            "hasLicense": false
+        },
+        {
+            "id": "u_7",
+            "name": "Bela",
+            "hasLicense": false
+        },
+        {
+            "id": "u_8",
+            "name": "Ollie",
+            "hasLicense": false
+        },
+        {
+            "id": "u_9",
+            "name": "Jasper",
+            "hasLicense": false
+        },
+        {
+            "id": "u_10",
+            "name": "Stella",
+            "hasLicense": false
+        }
+    ]
+}
