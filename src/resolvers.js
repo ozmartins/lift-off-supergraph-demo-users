@@ -1,4 +1,4 @@
-const userAPI = require('./datasources/users');
+const userAPI = require('./datasources/usersApi');
 
 const resolvers = {
   Query: {

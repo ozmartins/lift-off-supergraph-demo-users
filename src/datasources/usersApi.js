@@ -1,7 +1,6 @@
-const { users } = require('./data');
+const { users } = require('./usersData');
 
 function getUsers(licensed) {
-    console.log(licensed)
     return licensed ? users.filter(user => user.hasLicense === licensed):users;
 }
 
