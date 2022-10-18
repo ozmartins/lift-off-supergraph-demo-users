@@ -8,15 +8,15 @@ This users subgraph is meant to expand the Catstronauts supergraph.
 
 1. In a terminal window, install the packages.
 
-```
-npm install
-```
+    ```
+    npm install
+    ```
 
-1. Then, run the server
+1. Then, run the server.
 
-```
-npm start
-```
+    ```
+    npm start
+    ```
 
 This will start the GraphQL server on `localhost:4002`, where you can use Apollo Sandbox to run queries.
 
